@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aadarsh Reddy Depa</h1>
 <h3 align="center">I'm an AIML student at Sreyas Institute of Engineering and Technology with a strong foundation in programming languages like Python, Java, and SQL, along with experience in DBMS. I’ve built a range of projects that highlight my skills and interests, including a Java MVC project for a web series list and a doctor appointment scheduler built with core Java. Recently, I've explored machine learning in projects like a recipe recommendation system. You see more about my work and projects on my portfolio website: aadarshreddydepa.my.canva.site.</h3>
 
-- 🔭 I’m currently working on [Recipe Recoomendation System Using ML](https://github.com/aadarshreddydepa/Recipe-Recomendation-System-Using-ML)
 
 - 🌱 I’m currently learning **FrontEnd Development ,Machine Learning Algorithms**
 
