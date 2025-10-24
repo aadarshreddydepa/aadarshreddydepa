@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aadarsh Reddy Depa</h1>
-<h3 align="center">I'm an AIML student at Sreyas Institute of Engineering and Technology with a strong foundation in programming languages like Python, Java, and SQL, along with experience in DBMS. I’ve built a range of projects that highlight my skills and interests, including a Java MVC project for a web series list and a doctor appointment scheduler built with core Java. Recently, I've explored machine learning in projects like a recipe recommendation system. You see more about my work and projects on my portfolio website: aadarshreddydepa.my.canva.site.</h3>
+<h3 align="center">Aspiring Software Engineer and AI/ML Developer</h3>
 
-
-- 🌱 I’m currently learning **FullStack Development ,Machine Learning Algorithms**
-
-- 👨‍💻 All of my projects are available at [https://aadarshreddydepa.my.canva.site/](https://aadarshreddydepa.my.canva.site/)
-
-- 💬 Ask me about **Python,Java,JavaScript**
+<p align="center">
+I'm an AI/ML student at Sreyas Institute of Engineering and Technology with a strong foundation in Python, Java, and full-stack development. Skilled in data structures, algorithms, and cloud technologies (AWS), with hands-on experience building machine learning models, RESTful APIs, and scalable web applications. Passionate about solving real-world problems through AI-driven innovation and eager to contribute to impactful software solutions.
+</p>
 
 - 📫 How to reach me **aadarshreddydepa@gmail.com**
 
@@ -32,7 +29,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="flask" width="40" height="40"/> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -54,5 +51,5 @@
 <!-- Cloud & Platforms -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="cloudinary" width="40" height="40"/> </a>
+<a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Lr-sqt1y-yVxzrH47z8uN_f70jycA1GKUg&s" alt="cloudinary" width="40" height="40"/> </a>
 </p>
