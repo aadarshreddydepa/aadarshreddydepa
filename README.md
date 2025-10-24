@@ -5,8 +5,6 @@
 I'm an AI/ML student at Sreyas Institute of Engineering and Technology with a strong foundation in Python, Java, and full-stack development. Skilled in data structures, algorithms, and cloud technologies (AWS), with hands-on experience building machine learning models, RESTful APIs, and scalable web applications. Passionate about solving real-world problems through AI-driven innovation and eager to contribute to impactful software solutions.
 </p>
 
-- 📫 How to reach me **aadarshreddydepa@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aadarshreddydepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadarshreddydepa" height="30" width="40" /></a>
@@ -52,4 +50,10 @@ I'm an AI/ML student at Sreyas Institute of Engineering and Technology with a st
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Lr-sqt1y-yVxzrH47z8uN_f70jycA1GKUg&s" alt="cloudinary" width="40" height="40"/> </a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadarshreddydepa&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
